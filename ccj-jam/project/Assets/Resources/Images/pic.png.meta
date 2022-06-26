@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 434736e2a98f86e469b04ffd8edb1af4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 145
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_idle_left
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1477
+        width: 180
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5225322, y: 0.33916983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2d9b9f386ed4041ae7059df119171e
+      internalID: 101722269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_damage_left
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1477
+        width: 180
+        height: 290
+      alignment: 9
+      pivot: {x: 0.4774682, y: 0.3321773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eca5fd2ce69d0468486bef8d53cef1
+      internalID: 1470092494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_damage_right
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1477
+        width: 180
+        height: 290
+      alignment: 9
+      pivot: {x: 0.53379786, y: 0.3321773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389a352004a094544befe5541a7ea21d
+      internalID: 1149824482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_idle_right
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1477
+        width: 180
+        height: 290
+      alignment: 9
+      pivot: {x: 0.4662028, y: 0.31819186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a58858b59ba94eb377148deca811a
+      internalID: 1276871809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1482
+        width: 184
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142aa8d9da305bd43b866062dbf92c7f
+      internalID: 1554890250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1484
+        width: 290
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d1e30327a83d245b0c3ed75fa0882b
+      internalID: -1830007006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1329
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 6, z: 3, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0b1cebea7fe8747bd673893d31f45e
+      internalID: 226223866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1185
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5139857, y: 0.4860158}
+      border: {x: 2, y: 8, z: 2, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8c2bbaf593f24cb24fe324be22ea6
+      internalID: 143119500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1330
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6dd07a4b4bdf4e83307cea76a139b
+      internalID: 1587726040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chickenleg
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1202
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf3d91309de9044854e264743e2bb6
+      internalID: -1822789467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 895
+        width: 310
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9862ff2e6f3d4a439a3bcb063643b97
+      internalID: -351491035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1187
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca765e685ee2d94d9f233b51e387ee8
+      internalID: -680715081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1187
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fdccfa5d5b31a44866f8da874bd400
+      internalID: -1578332764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1187
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03881892c122684d982aa6d39c04209
+      internalID: 1108440716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_4
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1188
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf8c0aaa2447044384bb4e1a91d5481
+      internalID: -61940270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: album
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 651
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d3e196fefd824e9ca37a229d98552
+      internalID: -609985679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 323
+        width: 318
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934687cc44c0eea458408ce07c6ea597
+      internalID: -366458545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stair
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 321
+        width: 341
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e3f18fa9f1c4e4f9fc8e7a9c924b32
+      internalID: 310766090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 30
+        width: 448
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a1e65dc84d794d9a1e272a0b77f06
+      internalID: -54361234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 129
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1dc39ac90c7b64285b395121380946
+      internalID: -1474436700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 898
+        width: 175
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c80f8021f19d2d4ea29c73eee0dde0d
+      internalID: -1009694892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 896
+        width: 595
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a15a00926aec649a947f9649e16149
+      internalID: 1510519281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pic_96: -884245699
+      pic_65: -1013344444
+      pic_37: 925114468
+      pic_71: 1044365660
+      pic_72: 1802877742
+      pic_103: -1602523103
+      door: 2058525769
+      pic_36: -1058583960
+      pic_45: 1028065483
+      trap: 1587726040
+      sofa: -1009694892
+      pic_89: 399484074
+      wall2: 143119500
+      pic_93: -975420425
+      pic_17: -263434787
+      pic_78: -845624381
+      pic_83: -455026363
+      pic_94: 1461397127
+      stair: 310766090
+      pic_59: -485471053
+      pic_102: 755862713
+      pic_85: 839144283
+      pic_22: 349318043
+      pic_48: 1060621640
+      pic_6: -1244667821
+      pic_44: -35671252
+      table: -54361234
+      pic_101: -787374301
+      pic_104: 1225777056
+      pic_24: -111573412
+      pic_43: -208055132
+      pic_98: 422979302
+      pic_88: 1887247033
+      pic_111: 600226608
+      pic_33: 1206809045
+      pic_23: 1480142631
+      pic_5: -1001908732
+      player_damage_right: 1149824482
+      portal: -1830007006
+      pic_42: 1691811799
+      pic_74: 969180948
+      pic_9: -824887002
+      pic_51: -417367222
+      pic_60: 425701222
+      pic_87: 519439331
+      pic_15: -1050949618
+      pic_61: -1282729228
+      pic_109: -155715558
+      toilet_1: -680715081
+      pic_81: -1441827443
+      pic_8: 912093823
+      pic_100: -542197405
+      pic_76: -743391893
+      pic_110: 150829414
+      pic_54: 509813249
+      pic_64: -1243547902
+      pic_46: 1669638566
+      pic_32: 1993346752
+      pic_47: 1179993475
+      pic_11: -1378875711
+      pic_84: 238646165
+      pic_91: -1327074101
+      pic_63: 1939142203
+      pic_77: 535023142
+      player_idle_left: 101722269
+      pic_112: -1718182112
+      gold: -1474436700
+      pic_34: -1005162410
+      pic_4: -1990620997
+      pic_86: -2135860691
+      pic_10: 11483352
+      pic_79: -1651222264
+      toilet_4: -61940270
+      pic_38: 785402525
+      pic_67: -235536017
+      pic_82: 1905627797
+      pic_12: -295367230
+      pic_99: 84998875
+      pic_16: -1413927762
+      pic_30: -1520976880
+      wall: 226223866
+      pic_52: 1119517901
+      pic_90: -310946663
+      pic_55: -301829714
+      pic_29: -678155148
+      pic_62: -614735482
+      pic_56: -621292144
+      pic_73: -1562146134
+      player_idle_right: 1276871809
+      pic_106: -2087299505
+      pic_49: 820560021
+      pic_18: -667186186
+      pic_50: -715387156
+      player_damage_left: 1470092494
+      pic_95: 1367959522
+      toilet_3: 1108440716
+      pic_20: -968109399
+      pic_39: 1644816070
+      album: -609985679
+      pic_69: -879297531
+      pic_14: 967134353
+      pic_41: -1113428910
+      pic_66: -757859390
+      pic_108: 364012185
+      bed: -351491035
+      pic_3: 1911724293
+      pic_25: -320952808
+      pic_70: -1335644402
+      pic_26: 884381830
+      pic_57: 1230347884
+      wardrobe: -366458545
+      pic_13: 1692435380
+      chickenleg: -1822789467
+      sofa2: 1510519281
+      pic_92: -837906955
+      pic_107: 474015715
+      pic_68: -1184836189
+      pic_80: -448010222
+      pic_97: 906101630
+      pic_75: -20682763
+      pic_7: 1842326101
+      pic_53: -2024929292
+      toilet_2: -1578332764
+      pic_31: -125467209
+      pic_35: -2131923380
+      pic_2: -110338605
+      pic_58: -1088736572
+      pic_19: 601415456
+      pic_40: -777704689
+      pic_105: 952946243
+      pic_28: 1257694229
+      pic_27: 537803116
+      pic_21: -777098807
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

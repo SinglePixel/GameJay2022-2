@@ -1,0 +1,9 @@
+project/.vscode/settings.json
+project/project.sln
+project/Library/
+project/Logs/
+project/Temp/
+project/UserSettings/
+project/Assembly-CSharp.csproj
+project/ProjectSettings/SceneTemplateSettings.json
+project/Assets/TextMesh Pro/
